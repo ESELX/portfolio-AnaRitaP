@@ -28,3 +28,8 @@ a:hover {
   border-bottom-color: transparent;
   color: #10d3c9 !important;
 }
+
+p {
+  text-align: center;
+  margin: 0 0 2rem 0;
+}
