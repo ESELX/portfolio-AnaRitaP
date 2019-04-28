@@ -66,3 +66,132 @@ p {
 .conteudo-design img {
   	width: 80vw;
   }
+
+  /* Oficinas.html */
+  .tudo-oficinas {
+  	background-color: #f5f5f5;
+  	margin-left: 2em;
+  	margin-right: 2em;
+  	margin-bottom: 2em;
+  	padding-left: 4em;
+    padding-right: 4em;
+  }
+  .titulo-oficinas {
+  	font-size: 5em;
+  	text-align: center;
+  	font-weight: bold;
+  	color: #b5d7cd;
+  }
+
+  .texto-oficinas {
+  	font-size: 1em;
+  	text-align: center;
+  	font-weight: normal;
+  	color: #717981;
+  }
+  .conteudo-oficinas {
+  	font-size: 1em;
+  	text-align: center;
+  	font-weight: normal;
+  	color: #717981;
+  }
+  .conteudo-oficinas img {
+    	width: 80vw;
+    }
+
+    /* ferramentas.html */
+    .tudo-ferramentas {
+    	background-color: #f5f5f5;
+    	margin-left: 2em;
+    	margin-right: 2em;
+    	margin-bottom: 2em;
+    	padding-left: 4em;
+      padding-right: 4em;
+    }
+    .titulo-ferramentas {
+    	font-size: 5em;
+    	text-align: center;
+    	font-weight: bold;
+    	color: #b5d7cd;
+    }
+
+    .texto-ferramentas {
+    	font-size: 1em;
+    	text-align: center;
+    	font-weight: normal;
+    	color: #717981;
+    }
+    .conteudo-ferramentas {
+    	font-size: 1em;
+    	text-align: center;
+    	font-weight: normal;
+    	color: #717981;
+    }
+    .conteudo-ferramentas img {
+      	width: 80vw;
+      }
+
+
+      /* desenho.html */
+      .tudo-desenho {
+      	background-color: #f5f5f5;
+      	margin-left: 2em;
+      	margin-right: 2em;
+      	margin-bottom: 2em;
+      	padding-left: 4em;
+        padding-right: 4em;
+      }
+      .titulo-desenho {
+      	font-size: 5em;
+      	text-align: center;
+      	font-weight: bold;
+      	color: #b5d7cd;
+      }
+
+      .texto-desenho {
+      	font-size: 1em;
+      	text-align: center;
+      	font-weight: normal;
+      	color: #717981;
+      }
+      .conteudo-desenho {
+      	font-size: 1em;
+      	text-align: center;
+      	font-weight: normal;
+      	color: #717981;
+      }
+      .conteudo-desenho img {
+        	width: 80vw;
+        }
+
+        /* multimedia.html */
+        .tudo-multimedia {
+        	background-color: #f5f5f5;
+        	margin-left: 2em;
+        	margin-right: 2em;
+        	margin-bottom: 2em;
+        	padding-left: 4em;
+          padding-right: 4em;
+        }
+        .titulo-multimedia {
+        	font-size: 5em;
+        	text-align: center;
+        	font-weight: bold;
+        	color: #b5d7cd;
+        }
+
+        .texto-multimedia {
+        	font-size: 1em;
+        	text-align: center;
+        	font-weight: normal;
+        	color: #717981;
+        }
+        .conteudo-multimedia {
+        	font-size: 1em;
+        	text-align: center;
+        	font-weight: normal;
+        	color: #717981;
+        }
+        .conteudo-multimedia img {
+          	width: 80vw;
+          }
