@@ -34,3 +34,35 @@ p {
   text-align: center;
   margin: 0 0 2rem 0;
 }
+
+/* design.html */
+.tudo-design {
+	background-color: #f5f5f5;
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	padding-left: 4em;
+  padding-right: 4em;
+}
+.titulo-design {
+	font-size: 5em;
+	text-align: center;
+	font-weight: bold;
+	color: #b5d7cd;
+}
+
+.texto-design {
+	font-size: 1em;
+	text-align: center;
+	font-weight: normal;
+	color: #717981;
+}
+.conteudo-design {
+	font-size: 1em;
+	text-align: center;
+	font-weight: normal;
+	color: #717981;
+}
+.conteudo-design img {
+  	width: 80vw;
+  }
