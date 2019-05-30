@@ -51,11 +51,11 @@ p {
 	color: #b5d7cd;
 }
 
-.texto-design {
-	font-size: 1em;
-	text-align: center;
-	font-weight: normal;
-	color: #717981;
+.titulo-design {
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    color: #b5d7cd;
 }
 .conteudo-design {
 	font-size: 1em;
@@ -145,7 +145,7 @@ p {
       	font-size: 5em;
       	text-align: center;
       	font-weight: bold;
-      	color: #b5d7cd;
+      	color: #7b8286;
       }
 
       .texto-desenho {
@@ -195,3 +195,35 @@ p {
         .conteudo-multimedia img {
           	width: 80vw;
           }
+
+          /* meustrabalhos.html */
+          .tudo-meustrabalhos {
+            background-color: #f5f5f5;
+            margin-left: 2em;
+            margin-right: 2em;
+            margin-bottom: 2em;
+            padding-left: 4em;
+            padding-right: 4em;
+          }
+          .titulo-meustrabalhos {
+            font-size: 5em;
+            text-align: center;
+            font-weight: bold;
+            color: #b5d7cd;
+          }
+
+          .texto-meustrabalhos {
+            font-size: 1em;
+            text-align: center;
+            font-weight: normal;
+            color: #717981;
+          }
+          .conteudo-meustrabalhos {
+            font-size: 1em;
+            text-align: center;
+            font-weight: normal;
+            color: #717981;
+          }
+          .conteudo-meustrabalhos img {
+              width: 80vw;
+            }
