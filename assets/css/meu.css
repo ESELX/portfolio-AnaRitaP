@@ -45,6 +45,7 @@ p {
   padding-right: 4em;
 }
 .titulo-design {
+  font-family: "Source Sans Pro"
 	font-size: 5em;
 	text-align: center;
 	font-weight: bold;
@@ -57,8 +58,15 @@ p {
     font-weight: bold;
     color: #b5d7cd;
 }
+
+.titulo-design {
+    font-family: "Source Sans Pro" font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    color: #b5d7cd;
+
 .conteudo-design {
-	font-size: 1em;
+  font-size: 1em;
 	text-align: center;
 	font-weight: normal;
 	color: #717981;
@@ -206,6 +214,7 @@ p {
             padding-right: 4em;
           }
           .titulo-meustrabalhos {
+            font-family: "Source Sans Pro"
             font-size: 5em;
             text-align: center;
             font-weight: bold;
