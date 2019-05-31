@@ -38,8 +38,8 @@ p {
 /* design.html */
 .tudo-design {
 	background-color: #f5f5f5;
-	margin-left: 2em;
-	margin-right: 2em;
+	margin-left: 5em;
+	margin-right: 5em;
 	margin-bottom: 2em;
 	padding-left: 4em;
   padding-right: 4em;
@@ -78,8 +78,8 @@ p {
   /* Oficinas.html */
   .tudo-oficinas {
   	background-color: #f5f5f5;
-  	margin-left: 2em;
-  	margin-right: 2em;
+  	margin-left: 5em;
+  	margin-right: 5em;
   	margin-bottom: 2em;
   	padding-left: 4em;
     padding-right: 4em;
@@ -110,8 +110,8 @@ p {
     /* ferramentas.html */
     .tudo-ferramentas {
     	background-color: #f5f5f5;
-    	margin-left: 2em;
-    	margin-right: 2em;
+    	margin-left: 5em;
+    	margin-right: 5em;
     	margin-bottom: 2em;
     	padding-left: 4em;
       padding-right: 4em;
@@ -188,19 +188,19 @@ p {
         	color: #b5d7cd;
         }
 
-        .texto-multimedia {
+        .texto-arte {
         	font-size: 1em;
         	text-align: center;
         	font-weight: normal;
         	color: #717981;
         }
-        .conteudo-multimedia {
+        .conteudo-arte {
         	font-size: 1em;
         	text-align: center;
         	font-weight: normal;
         	color: #717981;
         }
-        .conteudo-multimedia img {
+        .conteudo-arte img {
           	width: 80vw;
           }
 
