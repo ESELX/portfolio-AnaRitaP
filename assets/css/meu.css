@@ -70,10 +70,11 @@ p {
   font-size: 1em;
 	text-align: center;
 	font-weight: normal;
-	color: #717981;
+	color: #71798;
 }
 .conteudo-design img {
   	width: 80vw;
+    font-size: 2em
   }
 
   /* Oficinas.html */
