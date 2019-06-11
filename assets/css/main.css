@@ -3591,13 +3591,13 @@ input, select, textarea {
 		background: rgba(255, 255, 255, 0.175);
 		height: 4rem;
 		line-height: 4rem;
-		margin: -4rem auto 0 auto;
 		overflow: hidden;
 		padding: 0 2rem 0 0;
 		position: relative;
-		width: calc(100% - 4rem);
-		max-width: 72rem;
+		width: calc(100% - 10em);
 		z-index: 2;
+		margin-left: 5em;
+		margin-right: 5em
 	}
 
 		#nav ul.divided li {
@@ -3732,8 +3732,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		position: relative;
 		margin: 0 auto;
-		width: calc(100% - 4rem);
-		max-width: 72rem;
+		width: calc(100% - 10rem);
 		z-index: 2;
 	}
 
