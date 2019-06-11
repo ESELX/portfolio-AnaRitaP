@@ -78,7 +78,7 @@ p {
   }
 
   /* Oficinas.html */
-  .tudo-oficinas {
+  .tudo-design {
   	background-color: #f5f5f5;
   	margin-left: 5em;
   	margin-right: 5em;
@@ -86,26 +86,23 @@ p {
   	padding-left: 4em;
     padding-right: 4em;
   }
-  .titulo-oficinas {
+  .titulo-design {
   	font-size: 5em;
   	text-align: center;
   	font-weight: bold;
   	color: #b5d7cd;
   }
 
-  .texto-oficinas {
+  .textotitulo-design {
+  text-align: center;
+    }
+  .conteudo-design {
   	font-size: 1em;
   	text-align: center;
   	font-weight: normal;
   	color: #717981;
   }
-  .conteudo-oficinas {
-  	font-size: 1em;
-  	text-align: center;
-  	font-weight: normal;
-  	color: #717981;
-  }
-  .conteudo-oficinas img {
+  .conteudo-design img {
     	width: 80vw;
     }
 
