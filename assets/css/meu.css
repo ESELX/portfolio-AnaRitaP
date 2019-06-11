@@ -203,6 +203,14 @@ p {
           	width: 80vw;
           }
 
+          .spread-video > video {
+            width: 200%;
+            margin-left: -50%;
+          }
+          .spread-video{
+            overflow: hidden;
+          }
+
           /* meustrabalhos.html */
           .tudo-meustrabalhos {
             background-color: #f5f5f5;
